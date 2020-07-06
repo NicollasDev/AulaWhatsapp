@@ -8,7 +8,7 @@ namespace AulaWhatsapp
       public string Enviar(Contato contato)
         {   
             
-             return $"Enviar a mensagem: '{MensagemFrase}' enviando para: {Destinatario}";
+             return $"Enviar a mensagem: '{MensagemFrase}' enviando para: {Destinatario.Nome}";
         }
     }
 }
