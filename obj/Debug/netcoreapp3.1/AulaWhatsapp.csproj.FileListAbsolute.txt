@@ -1,0 +1,13 @@
+C:\Users\NdL\Desktop\GERAL\Senai\AulaWhatsapp\bin\Debug\netcoreapp3.1\AulaWhatsapp.exe
+C:\Users\NdL\Desktop\GERAL\Senai\AulaWhatsapp\bin\Debug\netcoreapp3.1\AulaWhatsapp.deps.json
+C:\Users\NdL\Desktop\GERAL\Senai\AulaWhatsapp\bin\Debug\netcoreapp3.1\AulaWhatsapp.runtimeconfig.json
+C:\Users\NdL\Desktop\GERAL\Senai\AulaWhatsapp\bin\Debug\netcoreapp3.1\AulaWhatsapp.runtimeconfig.dev.json
+C:\Users\NdL\Desktop\GERAL\Senai\AulaWhatsapp\bin\Debug\netcoreapp3.1\AulaWhatsapp.dll
+C:\Users\NdL\Desktop\GERAL\Senai\AulaWhatsapp\bin\Debug\netcoreapp3.1\AulaWhatsapp.pdb
+C:\Users\NdL\Desktop\GERAL\Senai\AulaWhatsapp\obj\Debug\netcoreapp3.1\AulaWhatsapp.csprojAssemblyReference.cache
+C:\Users\NdL\Desktop\GERAL\Senai\AulaWhatsapp\obj\Debug\netcoreapp3.1\AulaWhatsapp.AssemblyInfoInputs.cache
+C:\Users\NdL\Desktop\GERAL\Senai\AulaWhatsapp\obj\Debug\netcoreapp3.1\AulaWhatsapp.AssemblyInfo.cs
+C:\Users\NdL\Desktop\GERAL\Senai\AulaWhatsapp\obj\Debug\netcoreapp3.1\AulaWhatsapp.csproj.CoreCompileInputs.cache
+C:\Users\NdL\Desktop\GERAL\Senai\AulaWhatsapp\obj\Debug\netcoreapp3.1\AulaWhatsapp.dll
+C:\Users\NdL\Desktop\GERAL\Senai\AulaWhatsapp\obj\Debug\netcoreapp3.1\AulaWhatsapp.pdb
+C:\Users\NdL\Desktop\GERAL\Senai\AulaWhatsapp\obj\Debug\netcoreapp3.1\AulaWhatsapp.genruntimeconfig.cache
